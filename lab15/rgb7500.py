@@ -7,4 +7,4 @@ for i in range(n):
     m = int(input())
     s.append(m)
 j = sum(s)
-print(j)
+print(j)######
